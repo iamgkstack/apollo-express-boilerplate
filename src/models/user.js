@@ -1,4 +1,4 @@
-import mongoose, { mongo } from 'mongoose';
+import mongoose from 'mongoose';
 
 import bcrypt from 'bcryptjs';
 import isEmail from 'validator/lib/isEmail';
